@@ -43,6 +43,7 @@ header{
 table{
     margin: 0 auto;
     background-color: rgb(246, 236, 16);
+    border: solid 1px black;
 }
 table td{
     width: 140px;
